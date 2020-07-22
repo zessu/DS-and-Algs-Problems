@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/makenzi/dev/projects/dotnet/circle-ci-razor/circle-ci-razor-pages/rearrange array -1 elements/rearrange array -1 elements/rearrange array -1 elements.csproj": {}
+    "/Users/makenzi/dev/projects/dotnet/dsproblems/rearrange array -1 elements/rearrange array -1 elements.csproj": {}
   },
   "projects": {
-    "/Users/makenzi/dev/projects/dotnet/circle-ci-razor/circle-ci-razor-pages/rearrange array -1 elements/rearrange array -1 elements/rearrange array -1 elements.csproj": {
+    "/Users/makenzi/dev/projects/dotnet/dsproblems/rearrange array -1 elements/rearrange array -1 elements.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/makenzi/dev/projects/dotnet/circle-ci-razor/circle-ci-razor-pages/rearrange array -1 elements/rearrange array -1 elements/rearrange array -1 elements.csproj",
+        "projectUniqueName": "/Users/makenzi/dev/projects/dotnet/dsproblems/rearrange array -1 elements/rearrange array -1 elements.csproj",
         "projectName": "rearrange array -1 elements",
-        "projectPath": "/Users/makenzi/dev/projects/dotnet/circle-ci-razor/circle-ci-razor-pages/rearrange array -1 elements/rearrange array -1 elements/rearrange array -1 elements.csproj",
+        "projectPath": "/Users/makenzi/dev/projects/dotnet/dsproblems/rearrange array -1 elements/rearrange array -1 elements.csproj",
         "packagesPath": "/Users/makenzi/.nuget/packages/",
-        "outputPath": "/Users/makenzi/dev/projects/dotnet/circle-ci-razor/circle-ci-razor-pages/rearrange array -1 elements/rearrange array -1 elements/obj/",
+        "outputPath": "/Users/makenzi/dev/projects/dotnet/dsproblems/rearrange array -1 elements/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

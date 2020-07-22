@@ -7,7 +7,7 @@ namespace rearrange_array__1_elements.problems
     //    Input: [8, -1, 6, 1, 9, 3, 2, 7, 4, -1]
     //    Output: [-1, 1, 2, 3, 4, -1, 6, 7, 8, 9]
 
-    public class LargestSumContiguousSubArray
+    public class IndexArray
     {
         int[] input = new int[] { 8, -1, 6, 1, 9, 3, 2, 7, 4, 1 };
 

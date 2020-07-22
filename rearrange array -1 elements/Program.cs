@@ -8,12 +8,9 @@ namespace rearrange_array__1_elements
     {
         public static void Main()
         {
-            LargestSumContiguousSubArray prog = new LargestSumContiguousSubArray();
-            int[] output = prog.Convert();
-            foreach (var item in output)
-            {
-                Console.Write("{0} ", item);
-            }
+            LongestSumContiguousSubArray prog = new LongestSumContiguousSubArray();
+            int output = prog.MaxSum();
+            Console.Write("{0} ", output);
         }
     }
 }

@@ -1,0 +1,12 @@
+/Users/makenzi/dev/projects/dotnet/circle-ci-razor/circle-ci-razor-pages/rearrange array -1 elements/rearrange array -1 elements/bin/Debug/netcoreapp3.1/rearrange array -1 elements.deps.json
+/Users/makenzi/dev/projects/dotnet/circle-ci-razor/circle-ci-razor-pages/rearrange array -1 elements/rearrange array -1 elements/bin/Debug/netcoreapp3.1/rearrange array -1 elements.runtimeconfig.json
+/Users/makenzi/dev/projects/dotnet/circle-ci-razor/circle-ci-razor-pages/rearrange array -1 elements/rearrange array -1 elements/bin/Debug/netcoreapp3.1/rearrange array -1 elements.runtimeconfig.dev.json
+/Users/makenzi/dev/projects/dotnet/circle-ci-razor/circle-ci-razor-pages/rearrange array -1 elements/rearrange array -1 elements/bin/Debug/netcoreapp3.1/rearrange array -1 elements.dll
+/Users/makenzi/dev/projects/dotnet/circle-ci-razor/circle-ci-razor-pages/rearrange array -1 elements/rearrange array -1 elements/bin/Debug/netcoreapp3.1/rearrange array -1 elements.pdb
+/Users/makenzi/dev/projects/dotnet/circle-ci-razor/circle-ci-razor-pages/rearrange array -1 elements/rearrange array -1 elements/obj/Debug/netcoreapp3.1/rearrange array -1 elements.csprojAssemblyReference.cache
+/Users/makenzi/dev/projects/dotnet/circle-ci-razor/circle-ci-razor-pages/rearrange array -1 elements/rearrange array -1 elements/obj/Debug/netcoreapp3.1/rearrange array -1 elements.AssemblyInfoInputs.cache
+/Users/makenzi/dev/projects/dotnet/circle-ci-razor/circle-ci-razor-pages/rearrange array -1 elements/rearrange array -1 elements/obj/Debug/netcoreapp3.1/rearrange array -1 elements.AssemblyInfo.cs
+/Users/makenzi/dev/projects/dotnet/circle-ci-razor/circle-ci-razor-pages/rearrange array -1 elements/rearrange array -1 elements/obj/Debug/netcoreapp3.1/rearrange array -1 elements.csproj.CoreCompileInputs.cache
+/Users/makenzi/dev/projects/dotnet/circle-ci-razor/circle-ci-razor-pages/rearrange array -1 elements/rearrange array -1 elements/obj/Debug/netcoreapp3.1/rearrange array -1 elements.dll
+/Users/makenzi/dev/projects/dotnet/circle-ci-razor/circle-ci-razor-pages/rearrange array -1 elements/rearrange array -1 elements/obj/Debug/netcoreapp3.1/rearrange array -1 elements.pdb
+/Users/makenzi/dev/projects/dotnet/circle-ci-razor/circle-ci-razor-pages/rearrange array -1 elements/rearrange array -1 elements/obj/Debug/netcoreapp3.1/rearrange array -1 elements.genruntimeconfig.cache

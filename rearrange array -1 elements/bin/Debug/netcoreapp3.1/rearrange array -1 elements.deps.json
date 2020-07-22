@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "rearrange array -1 elements/1.0.0": {
+        "runtime": {
+          "rearrange array -1 elements.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "rearrange array -1 elements/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{21E45A97-B363-4682-A67B-800AD4435E53}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="rearrange array -1 elements/Program.cs">
+    <Files>
+      <File FileName="rearrange array -1 elements/Program.cs" Line="26" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="rearrange array -1 elements" expanded="True">
+            <Node name="rearrange array -1 elements" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.rearrange_220array_220-1_220elements PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/makenzi/dev/projects/dotnet/circle-ci-razor/circle-ci-razor-pages/rearrange array -1 elements/rearrange array -1 elements/Program.cs" relfile="rearrange array -1 elements/Program.cs" line="17" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

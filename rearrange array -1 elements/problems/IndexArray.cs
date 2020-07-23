@@ -9,10 +9,10 @@ namespace rearrange_array__1_elements.problems
 
     public class IndexArray
     {
-        int[] input = new int[] { 8, -1, 6, 1, 9, 3, 2, 7, 4, 1 };
-
-        public int[] Convert()
+        public static int[] Convert()
         {
+            int[] input = new int[] { 8, -1, 6, 1, 9, 3, 2, 7, 4, 1 };
+
             for (int count = 0; count < input.Length; count++)
             {
                 int num = input[count];

@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/makenzi/dev/projects/dotnet/circle-ci-razor/circle-ci-razor-pages/rearrange array -1 elements/rearrange array -1 elements/rearrange array -1 elements.csproj",
+    "projectUniqueName": "/Users/makenzi/dev/projects/dotnet/dsproblems/rearrange array -1 elements/rearrange array -1 elements.csproj",
     "projectName": "rearrange array -1 elements",
-    "projectPath": "/Users/makenzi/dev/projects/dotnet/circle-ci-razor/circle-ci-razor-pages/rearrange array -1 elements/rearrange array -1 elements/rearrange array -1 elements.csproj",
-    "outputPath": "/Users/makenzi/dev/projects/dotnet/circle-ci-razor/circle-ci-razor-pages/rearrange array -1 elements/rearrange array -1 elements/obj/",
+    "projectPath": "/Users/makenzi/dev/projects/dotnet/dsproblems/rearrange array -1 elements/rearrange array -1 elements.csproj",
+    "outputPath": "/Users/makenzi/dev/projects/dotnet/dsproblems/rearrange array -1 elements/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -45,7 +45,7 @@
           "privateAssets": "all"
         }
       },
-      "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
+      "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
     }
   }
 }

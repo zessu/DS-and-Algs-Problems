@@ -8,9 +8,7 @@ namespace rearrange_array__1_elements
     {
         public static void Main()
         {
-            LongestSumContiguousSubArray prog = new LongestSumContiguousSubArray();
-            int output = prog.MaxSum();
-            Console.Write("{0} ", output);
+            SmalllestMissingNumberUnsortedArray.Find();
         }
     }
 }

@@ -12,12 +12,19 @@
             </e>
           </e>
         </e>
+        <e p="problems" t="Include">
+          <e p="IndexArray.cs" t="Include" />
+          <e p="LongestSumContiguousSubArray.cs" t="Include" />
+          <e p="MaximumMinimumArray.cs" t="Include" />
+          <e p="SmalllestMissingNumberUnsortedArray.cs" t="Include" />
+          <e p="SortArrayFunc.cs" t="Include" />
+        </e>
         <e p="Program.cs" t="Include" />
         <e p="rearrange array -1 elements.csproj" t="IncludeRecursive" />
       </e>
       <e p="rearrange array -1 elements.sln" t="IncludeFlat" />
     </e>
     <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
-    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_rearrange array -1 elements.-231653536.00" t="ExcludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_rearrange array -1 elements.1037528451.00" t="ExcludeRecursive" />
   </component>
 </project>

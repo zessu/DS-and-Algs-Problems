@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{21E45A97-B363-4682-A67B-800AD4435E53}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="rearrange array -1 elements/problems/LongestSumContiguousSubArray.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="rearrange array -1 elements/problems/MaximumMinimumArray.cs">
     <Files>
-      <File FileName="rearrange array -1 elements/Program.cs" Line="17" Column="1" />
-      <File FileName="rearrange array -1 elements/problems/LongestSumContiguousSubArray.cs" Line="29" Column="1" />
+      <File FileName="rearrange array -1 elements/problems/MaximumMinimumArray.cs" Line="36" Column="1" />
+      <File FileName="rearrange array -1 elements/Program.cs" Line="15" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -11,7 +11,7 @@
             <Node name="rearrange array -1 elements" expanded="True">
               <Node name="Dependencies" expanded="True" />
               <Node name="problems" expanded="True">
-                <Node name="LongestSumContiguousSubArray.cs" selected="True" />
+                <Node name="MaximumMinimumArray.cs" selected="True" />
               </Node>
             </Node>
           </Node>

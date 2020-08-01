@@ -18,6 +18,9 @@
           <e p="MaximumMinimumArray.cs" t="Include" />
           <e p="SmalllestMissingNumberUnsortedArray.cs" t="Include" />
           <e p="SortArrayFunc.cs" t="Include" />
+          <e p="Sorting" t="Include">
+            <e p="QuickSort.cs" t="Include" />
+          </e>
         </e>
         <e p="Program.cs" t="Include" />
         <e p="rearrange array -1 elements.csproj" t="IncludeRecursive" />

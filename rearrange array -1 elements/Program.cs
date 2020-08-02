@@ -8,10 +8,10 @@ namespace rearrange_array__1_elements
     {
         public static void Main()
         {
-            int[] arr = new int[] { 6,4,5,1,8,2,9,7,3,10};
-            QuickSort alg = new QuickSort(arr);
-            alg.Sort( 0, arr.Length-1);
-            alg.PrintResult();
+            int[] arr = new int[] { 62,43,54,16,84,27,93,75,377,120};
+            QuickSelect alg = new QuickSelect(arr,3);
+            int result = alg.FindIndex( 0, arr.Length-1);
+            Console.WriteLine("result is {0}", result);
         }
     }
 }

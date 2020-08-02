@@ -57,7 +57,7 @@ namespace rearrange_array__1_elements.problems.Sorting
             Sort( upper+1, stop); // sort right half
         }
 
-        public void Swap(int[] arr, int index1, int index2)
+        private void Swap(int[] arr, int index1, int index2)
         {
             int temp = arr[index1];
             arr[index1] = arr[index2];

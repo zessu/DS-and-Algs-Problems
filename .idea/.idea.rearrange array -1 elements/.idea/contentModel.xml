@@ -19,6 +19,7 @@
           <e p="SmalllestMissingNumberUnsortedArray.cs" t="Include" />
           <e p="SortArrayFunc.cs" t="Include" />
           <e p="Sorting" t="Include">
+            <e p="QuickSelect.cs" t="Include" />
             <e p="QuickSort.cs" t="Include" />
           </e>
         </e>
